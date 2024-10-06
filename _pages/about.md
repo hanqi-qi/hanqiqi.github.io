@@ -23,11 +23,11 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 
 # 🔥 News
 <div style="border: 1px solid #ccc; padding: 10px; width: 100%; height: 150px; overflow: auto;">
-  09.2024: Three papers (1 first-author) are accepted by <strong>EMNLP24</strong> Main Conference.
-  08.2024: I go to <strong>Bangkok</strong>, Thiland for ACL24.
-  05.2024: Two papers (1 first-author) are accepted by <strong>ACL24</strong>, one in main conference, one in findings.
+09.2024: Three papers (1 first-author) are accepted by **EMNLP24** Main Conference.\\
+08.2024: I go to <strong>Bangkok</strong>, Thiland for ACL24. \\
+05.2024: Two papers (1 first-author) are accepted by <strong>ACL24</strong>, one in main conference, one in findings.
 04.2024: I pass the <strong>PhD viva with no correction</strong>strong>. 
- 01.2024: I become a <strong>PostDoc at King's College London</strong>, NLP Group.
+01.2024: I become a <strong>PostDoc at King's College London</strong>, NLP Group.
 01.2024: I finish my <strong>PhD thesis (draft)</strong> on the same of my birthday.
 01.2024: My first-author paper is finally accepted by TKDE. 
 07.2023: I go to Hawaii, US to present our <strong>Neurips</strong> paper
