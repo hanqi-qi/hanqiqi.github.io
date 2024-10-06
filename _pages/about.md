@@ -133,6 +133,33 @@ function filterPubs(category) {
 }
 </script>
 
+<!-- Basic Styling for Buttons and Papers -->
+<style>
+  .filter-btn {
+    background-color: #ddd;
+    border: none;
+    padding: 8px 16px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .filter-btn:hover {
+    background-color: #ccc;
+  }
+
+  .publication-list {
+    margin-top: 20px;
+  }
+
+  .paper-box-text {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+  }
+</style>
 
 
 <div id="honors" markdown="1"> 
