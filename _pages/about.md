@@ -21,7 +21,30 @@ redirect_from:
                 
 During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey in visiting professor Wenjie Li affiliated Natural Language Processing Group @PolyU Hong Kong.
 
-🔥 My research interests focuse on robust and reliable language models. 
+# 🔥 News
+<div style="width: 100%; height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+  This is a scrollable area. Add as much content as you want in here, and it will be scrollable.
+  <br><br>
+  Line 1
+  <br><br>
+  Line 2
+  <br><br>
+  Line 3
+  <br><br>
+  Line 4
+  <br><br>
+  Line 5
+  <br><br>
+  Line 6
+  <br><br>
+  Line 7
+  <br><br>
+  Line 8
+  <br><br>
+  Line 9
+  <br><br>
+  Line 10
+</div>
 
 🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
 
