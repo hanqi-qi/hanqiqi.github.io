@@ -30,7 +30,7 @@ My research interests lie in the intersection of Machine Learning and Natural La
 
 
 # 🔥 News
-<div style="border: 1px solid #ccc; padding: 10px; width: 100%; height: 150px; overflow: auto;">
+<div style="border: 0px solid #ccc; padding: 10px; width: 100%; height: 150px; overflow: auto;">
 09.2024: Three papers (1 first-author) are accepted by <strong>EMNLP24</strong> Main Conference.<br>
 08.2024: I go to <strong>Bangkok</strong>, Thiland for ACL24. <br>
 05.2024: Two papers (1 first-author) are accepted by <strong>ACL24</strong>, one in main conference, one in findings. <br>
