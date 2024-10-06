@@ -22,7 +22,8 @@ redirect_from:
 During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey in visiting professor Wenjie Li affiliated Natural Language Processing Group @PolyU Hong Kong.
 
 # 🔥 News
-<div style="width: 100%; height: 20px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+<div style="border: 1px solid #ccc; padding: 10px; width: 100%; height: 150px; overflow: auto;">
+
   This is a scrollable area. Add as much content as you want in here, and it will be scrollable.
   <br><br>
   Line 1
