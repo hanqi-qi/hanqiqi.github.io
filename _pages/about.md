@@ -23,28 +23,25 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 
 # 🔥 News
 <div style="border: 1px solid #ccc; padding: 10px; width: 100%; height: 150px; overflow: auto;">
-
-  This is a scrollable area. Add as much content as you want in here, and it will be scrollable.
-  <br><br>
-  Line 1
-  <br><br>
-  Line 2
-  <br><br>
-  Line 3
-  <br><br>
-  Line 4
-  <br><br>
-  Line 5
-  <br><br>
-  Line 6
-  <br><br>
-  Line 7
-  <br><br>
-  Line 8
-  <br><br>
-  Line 9
-  <br><br>
-  Line 10
+  09.2024: Three papers (1 first-author) are accepted by <strong>EMNLP24</strong> Main Conference.
+  08.2024: I go to <strong>Bangkok</strong>, Thiland for ACL24.
+  05.2024: Two papers (1 first-author) are accepted by <strong>ACL24</strong>, one in main conference, one in findings.
+04.2024: I pass the <strong>PhD viva with no correction</strong>strong>. 
+ 01.2024: I become a <strong>PostDoc at King's College London</strong>, NLP Group.
+01.2024: I finish my <strong>PhD thesis (draft)</strong> on the same of my birthday.
+01.2024: My first-author paper is finally accepted by TKDE. 
+07.2023: I go to Hawaii, US to present our <strong>Neurips</strong> paper
+07.2023: My first-author paper is accepted by Neurips (my neurips paper).
+02.2023: I go back to the UK from <strong>Abu Dhabi, UAE</strong>, finish my Machine Learning Learning trip in MBZUAI.
+02.2023: I attend the <strong>EMNLP23</strong> held in Abu Dhabi, to present our <strong>Computation Linguistics</strong> paper.
+01.2023: One paper is accepted by <strong>EACL23-findings</strong>strong> (first time as a mentor for a master student). 
+12.2022: Lionel Messi leads Argentina to win the World Cup championship.
+10.2022: I start to be a funded visit student in Machine Learning, Department at <strong>MBZUAI</strong>strong>, Abu Dhabi, UAE, advised by Prof. <a href="https://www.andrew.cmu.edu/user/kunz1/"> Kun Zhang </a>.  
+08.2022: I go to <strong>Eindhoven</strong>, NetherLand to present our UAI paper.
+05.2022: My first-author paper is accepted by <strong>UAI23</strong> (my first ML paper) 
+05.2022: My first-author paper is accepted by <strong>UAI23</strong> (my first ML paper) 
+05.2021: The first time! My first-author paper is accepted by <strong>ACL21 Oral</strong> A super encouragement in my early PhD career.
+10.2020: I start my PhD journey at University of Warwick. 
 </div>
 
 🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
