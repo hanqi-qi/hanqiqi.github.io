@@ -89,6 +89,8 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   \\
   I. Silva, **H. Yan**, L. Gui, Y. He
   **EMNLP24, main** |  [Paper](https://arxiv.org/abs/2312.09390) 
+  <br>
+  <span style="background-color: #f0d4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Application</span>
   </div>
 
   <div class="paper-box-text interpretability" markdown="1">
@@ -101,7 +103,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   <br>
   </div>
 
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text Representation' markdown="1">
   <b style="color:#783F04;"> Counterfactual Generation with Identifiability Guarantee
   </b>
   \\
@@ -109,37 +111,40 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   **Neurips23, main** |  [Paper](https://neurips.cc/virtual/2023/poster/71063) 
   </div>
 
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text interpretability' markdown="1">
   <b style="color:#783F04;"> Explainable Recommender with Geometric Information Bottleneck
   </b>
   \\
   <strong>H. Yan</strong>, L. Gui, M. Wang, K. Zhang and Y. He
-  **Neurips23, main** |  [Paper](https://arxiv.org/abs/2305.05331) 
+  **TKDE** |  [Paper](https://arxiv.org/abs/2305.05331) <br>
+    <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  
   </div>
 
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text interpretability' markdown="1">
   <b style="color:#783F04;"> Hierarchical Interpretation of Neural Text Classification
   </b>
   \\
   <strong>H. Yan</strong>, L. Gui and Y. He
-  **Neurips23, main** |  [Paper](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text) 
+  **Computational Linguistics, Present at EMNLP23** |  [Paper](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text) <br>
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  
   </div>
 
   
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text application' markdown="1">
   <b style="color:#783F04;"> A Knowledge-Aware Graph Model for Emotion Cause Extraction
   </b>
   \\
   <strong>H. Yan</strong>, L. Gui and Y. He
-  **Neurips23, main** |  [Paper](https://aclanthology.org/2021.acl-long.261.pdf)
+  **ACL21, Oral** |  [Paper](https://aclanthology.org/2021.acl-long.261.pdf)
   </div>
 
-    <div class='paper-box-text' markdown="1">
+    <div class='paper-box-text representation' markdown="1">
   <b style="color:#783F04;"> Addressing Token Uniformity in Transformers via Singular Value Transformation
   </b>
   \\
   <strong>H. Yan</strong>, L. Gui, W. Li and Y. He
-  **Neurips23, main** |  [Paper](https://proceedings.mlr.press/v180/yan22b.html)
+  **UAI22, spotlight** |  [Paper](https://proceedings.mlr.press/v180/yan22b.html)<br>
+  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
   </div>
 
     <div class='paper-box-text' markdown="1">
@@ -147,7 +152,8 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   </b>
   \\
   H. Li, <strong>H. Yan</strong>, L. Gui, W. Li and Y. He
-  **Neurips23, main** |  [Paper](https://arxiv.org/abs/2302.06198)
+  **EACL23, findings** |  [Paper](https://arxiv.org/abs/2302.06198)<br>
+   <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
   </div>
   
 
@@ -198,10 +204,10 @@ function filterPubs(category) {
   }
 
   .paper-box-text {
-    margin-bottom: 20px;
-    padding: 10px;
+    margin-bottom: 5px;
+    padding: 5px;
     border: 0px solid #ccc;
-    border-radius: 5px;
+    border-radius: 0px;
     display: block;
 }
 
