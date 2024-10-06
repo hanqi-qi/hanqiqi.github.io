@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-✨ Hi everyone! I'm a PostDoc at [King's college London](https://kcl.ac.uk/), NLP Group,led by [Prof. Yulan He](https://sites.google.com/view/yulanhe), . I passed my PhD viva with no corrections after a great time in University of Warwick (2020.10-2024.04), advised by Prof. Yulan He and Dr. Lin Gui. I finished my M.S. at Peking University and my B.E. at Beihang University.
+✨ Hi everyone! I'm a PostDoc at [King's college London](https://kcl.ac.uk/), NLP Group,led by [Prof. Yulan He](https://sites.google.com/view/yulanhe). I passed my PhD viva with no corrections after a great time in University of Warwick, advised by Prof. Yulan He and Dr. Lin Gui. I finished my M.S. at Peking University and my B.E. at Beihang University.
                 
-During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey in visiting professor Wenjie Li affiliated Natural Language Processing Group @PolyU Hong Kong.
+During Ph.D., I started my Causality Journey in visiting Prof. (Kun Zhang)[https://www.andrew.cmu.edu/user/kunz1/] affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey in visiting Prof. (Wenjie Li)[https://www4.comp.polyu.edu.hk/~cswjli/] affiliated NLP Group @PolyU Hong Kong.
+
+# 🔍 Research Summary
+My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models.
+
+
+
 
 # 🔥 News
 <div style="border: 1px solid #ccc; padding: 10px; width: 100%; height: 150px; overflow: auto;">
@@ -46,8 +52,6 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 
 🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
 
-🔔 Last Update on Oct. 2024
-
 <a href='[https://scholar.google.com/citations?user=YmWi1lgAAAAJ](https://scholar.google.com/citations?user=YmWi1lgAAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div id="educations" markdown="1"> 
@@ -73,7 +77,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 </div>
 
 <div class="publication-list">
-  <div class="paper-box-text interpretability represesentation application" markdown="1">
+  <div class="paper-box-text interpretability representation application" markdown="1">
   <b style="color:#783F04;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
   </b>
   \\
