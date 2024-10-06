@@ -9,14 +9,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Professional Activities"
+    url: "/#-professional-activities"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#-Invited Talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Memos"
+    url: "/#-Memos"
