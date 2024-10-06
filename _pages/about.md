@@ -71,42 +71,44 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   <button class="filter-btn" onclick="filterPubs('application')">Application</button>
 </div>
 
-<div class='paper-box-text' markdown="1">
-<b style="color:#783F04;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
-</b>
-\\
-**H. Yan**, Y. Xiang, G Chen, Y. Wang, L. Gui, Y. He\\
-**EMNLP24, main** |  [Paper](https://arxiv.org/abs/2406.17969)
-<br>
-<span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
-<br>
-  
-</div>
+<div class="publication-list">
+  <div class='paper-box-text' markdown="1">
+  <b style="color:#783F04;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
+  </b>
+  \\
+  **H. Yan**, Y. Xiang, G Chen, Y. Wang, L. Gui, Y. He\\
+  **EMNLP24, main** |  [Paper](https://arxiv.org/abs/2406.17969)
+  <br>
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
+  <br>
+  </div>
 
-<div class='paper-box-text' markdown="1">
-<b style="color:#783F04;"> Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
-</b>
-\\
-I. Silva, **H. Yan**, L. Gui, Y. He
-**EMNLP24, main** |  [Paper](https://arxiv.org/abs/2312.09390) 
-</div>
+  <div class='paper-box-text' markdown="1">
+  <b style="color:#783F04;"> Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
+  </b>
+  \\
+  I. Silva, **H. Yan**, L. Gui, Y. He
+  **EMNLP24, main** |  [Paper](https://arxiv.org/abs/2312.09390) 
+  </div>
 
-<div class='paper-box-text' markdown="1">
-<b style="color:#783F04;"> The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities
-</b>
-\\
-Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He
-**EMNLP24, main** |  [Paper](https://arxiv.org/abs/2311.00237) <br>
-<span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  
-<br>
-</div>
+  <div class='paper-box-text' markdown="1">
+  <b style="color:#783F04;"> The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities
+  </b>
+  \\
+  Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He
+  **EMNLP24, main** |  [Paper](https://arxiv.org/abs/2311.00237) <br>
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  
+  <br>
+  </div>
 
-<div class='paper-box-text' markdown="1">
-<b style="color:#783F04;"> Counterfactual Generation with Identifiability Guarantee
-</b>
-\\
-<strong>H. Yan</strong>, L. Kong, L. Gui, Y. Chi, Eric. Xing, Y. He, K. Zhang.
-**Neurips23, main** |  [Paper](https://neurips.cc/virtual/2023/poster/71063) 
+  <div class='paper-box-text' markdown="1">
+  <b style="color:#783F04;"> Counterfactual Generation with Identifiability Guarantee
+  </b>
+  \\
+  <strong>H. Yan</strong>, L. Kong, L. Gui, Y. Chi, Eric. Xing, Y. He, K. Zhang.
+  **Neurips23, main** |  [Paper](https://neurips.cc/virtual/2023/poster/71063) 
+  </div>
+
 </div>
 
 
