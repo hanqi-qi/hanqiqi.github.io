@@ -23,7 +23,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 
 # 🔥 News
 <div style="border: 1px solid #ccc; padding: 10px; width: 100%; height: 150px; overflow: auto;">
-09.2024: Three papers (1 first-author) are accepted by <strong>EMNLP24</strong>strong> Main Conference.<br>
+09.2024: Three papers (1 first-author) are accepted by <strong>EMNLP24</strong> Main Conference.<br>
 08.2024: I go to <strong>Bangkok</strong>, Thiland for ACL24. <br>
 05.2024: Two papers (1 first-author) are accepted by <strong>ACL24</strong>, one in main conference, one in findings. <br>
 04.2024: I pass the <strong>PhD viva with no correction</strong>. <br>
@@ -34,9 +34,9 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 07.2023: My first-author paper is accepted by Neurips (my neurips paper). <br>
 02.2023: I go back to the UK from <strong>Abu Dhabi, UAE</strong>, finish my Machine Learning Learning trip in MBZUAI. <br>
 02.2023: I attend the <strong>EMNLP23</strong> held in Abu Dhabi, to present our <strong>Computation Linguistics</strong> paper. <br>
-01.2023: One paper is accepted by <strong>EACL23-findings</strong>strong> (first time as a mentor for a master student). <br>
+01.2023: One paper is accepted by <strong>EACL23-findings</strong> (first time as a mentor for a master student). <br>
 12.2022: Lionel Messi leads Argentina to win the World Cup championship. <br>
-10.2022: I start to be a funded visit student in Machine Learning, Department at <strong>MBZUAI</strong>strong>, Abu Dhabi, UAE, advised by Prof. <a href="https://www.andrew.cmu.edu/user/kunz1/"> Kun Zhang </a>.  <br>
+10.2022: I start to be a funded visit student in Machine Learning, Department at <strong>MBZUAI</strong>, Abu Dhabi, UAE, advised by Prof. <a href="https://www.andrew.cmu.edu/user/kunz1/"> Kun Zhang </a>.  <br>
 08.2022: I go to <strong>Eindhoven</strong>, NetherLand to present our UAI paper. <br>
 05.2022: My first-author paper is accepted by <strong>UAI23</strong> (my first ML paper)  <br>
 05.2022: My first-author paper is accepted by <strong>UAI23</strong> (my first ML paper) <br>
@@ -62,6 +62,14 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 </div>
 
 (* indicates equal contribution)
+
+<!-- Filter Buttons -->
+<div id="filter-container">
+  <button class="filter-btn" onclick="filterPubs('all')">All</button>
+  <button class="filter-btn" onclick="filterPubs('interpretability')">Interpretability</button>
+  <button class="filter-btn" onclick="filterPubs('representation')">Representation</button>
+  <button class="filter-btn" onclick="filterPubs('application')">Application</button>
+</div>
 
 <div class='paper-box-text' markdown="1">
 <b style="color:#783F04;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
@@ -89,7 +97,9 @@ I. Silva, **H. Yan**, L. Gui, Y. He
 </b>
 \\
 Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He
-**EMNLP24, main** |  [Paper](https://arxiv.org/abs/2311.00237) 
+**EMNLP24, main** |  [Paper](https://arxiv.org/abs/2311.00237) <br>
+<span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  
+<br>
 </div>
 
 <div class='paper-box-text' markdown="1">
