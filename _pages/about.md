@@ -26,7 +26,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 09.2024: Three papers (1 first-author) are accepted by <strong>EMNLP24</strong>strong> Main Conference.<br>
 08.2024: I go to <strong>Bangkok</strong>, Thiland for ACL24. <br>
 05.2024: Two papers (1 first-author) are accepted by <strong>ACL24</strong>, one in main conference, one in findings. <br>
-04.2024: I pass the <strong>PhD viva with no correction</strong>strong>. <br>
+04.2024: I pass the <strong>PhD viva with no correction</strong>. <br>
 01.2024: I become a <strong>PostDoc at King's College London</strong>, NLP Group. <br>
 01.2024: I finish my <strong>PhD thesis (draft)</strong> on the same of my birthday.<br>
 01.2024: My first-author paper is finally accepted by TKDE. <br>
@@ -67,9 +67,37 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 <b style="color:#783F04;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
 </b>
 \\
-**Hanqi Yan**, Yanzheng Xiang, Guangyi Chen, Yifei Wang, Lin Gui, Yulan He\\
-**EMNLP, main** |  [Paper](https://arxiv.org/abs/2406.17969) 
+**H. Yan**, Y. Xiang, G Chen, Y. Wang, L. Gui, Y. He\\
+**EMNLP24, main** |  [Paper](https://arxiv.org/abs/2406.17969)
+<span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  
+<span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
+
 </div>
+
+<div class='paper-box-text' markdown="1">
+<b style="color:#783F04;"> Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
+</b>
+\\
+I. Silva, **H. Yan**, L. Gui, Y. He
+**EMNLP24, main** |  [Paper](https://arxiv.org/abs/2312.09390) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+<b style="color:#783F04;"> The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities
+</b>
+\\
+Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He
+**EMNLP24, main** |  [Paper](https://arxiv.org/abs/2311.00237) 
+</div>
+
+<div class='paper-box-text' markdown="1">
+<b style="color:#783F04;"> Counterfactual Generation with Identifiability Guarantee
+</b>
+\\
+<strong>H. Yan</strong>, L. Kong, L. Gui, Y. Chi, Eric. Xing, Y. He, K. Zhang.
+**Neurips23, main** |  [Paper](https://neurips.cc/virtual/2023/poster/71063) 
+</div>
+
 
 
 <div id="honors" markdown="1"> 
