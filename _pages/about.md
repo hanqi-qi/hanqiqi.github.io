@@ -68,6 +68,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   <button class="filter-btn" onclick="filterPubs('all')">All</button>
   <button class="filter-btn" onclick="filterPubs('interpretability')">Interpretability</button>
   <button class="filter-btn" onclick="filterPubs('representation')">Representation</button>
+  <button class="filter-btn" onclick="filterPubs('causality')">Causality</button>
   <button class="filter-btn" onclick="filterPubs('application')">Application</button>
 </div>
 
@@ -83,14 +84,14 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   <br>
   </div>
 
-  <div class="paper-box-text application" markdown="1">
+  <div class="paper-box-text causality" markdown="1">
   <b style="color:#783F04;"> Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
   </b>
   \\
   I. Silva, **H. Yan**, L. Gui, Y. He
   **EMNLP24, main** |  [Paper](https://arxiv.org/abs/2312.09390) 
   <br>
-  <span style="background-color: #f0d4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Application</span>
+  <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Causality</span>
   </div>
 
   <div class="paper-box-text interpretability" markdown="1">
@@ -103,12 +104,34 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   <br>
   </div>
 
-  <div class='paper-box-text Representation' markdown="1">
+  <div class="paper-box-text application" markdown="1">
+  <b style="color:#783F04;"> Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning
+  </b>
+  \\
+   <strong>H. Yan</strong>, Q. Zhu, X. Wang, L. Gui, Y. He
+  **ACL24, main** |  [Paper](https://arxiv.org/abs/2311.00237) <br>
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span>  
+  <br>
+  </div>
+
+  <div class="paper-box-text representation" markdown="1">
+  <b style="color:#783F04;">Addressing Order Sensitivity of In-Context Demonstration Examples in Causal Language Models. 
+  </b>
+  \\
+   <strong>H. Yan</strong>, Q. Zhu, X. Wang, L. Gui, Y. He
+  **ACL24, findings** |  [Paper]([https://arxiv.org/abs/2311.00237](https://arxiv.org/pdf/2402.15637)) <br>
+  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span> 
+  <br>
+  </div>
+  
+
+  <div class='paper-box-text representation causality' markdown="1">
   <b style="color:#783F04;"> Counterfactual Generation with Identifiability Guarantee
   </b>
   \\
   <strong>H. Yan</strong>, L. Kong, L. Gui, Y. Chi, Eric. Xing, Y. He, K. Zhang.
-  **Neurips23, main** |  [Paper](https://neurips.cc/virtual/2023/poster/71063) 
+  **Neurips23, main** |  [Paper](https://neurips.cc/virtual/2023/poster/71063)<br>
+  <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Causality</span> <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
   </div>
 
   <div class='paper-box-text interpretability' markdown="1">
@@ -129,16 +152,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  
   </div>
 
-  
-  <div class='paper-box-text application' markdown="1">
-  <b style="color:#783F04;"> A Knowledge-Aware Graph Model for Emotion Cause Extraction
-  </b>
-  \\
-  <strong>H. Yan</strong>, L. Gui and Y. He
-  **ACL21, Oral** |  [Paper](https://aclanthology.org/2021.acl-long.261.pdf)
-  </div>
-
-    <div class='paper-box-text representation' markdown="1">
+  <div class='paper-box-text representation' markdown="1">
   <b style="color:#783F04;"> Addressing Token Uniformity in Transformers via Singular Value Transformation
   </b>
   \\
@@ -147,7 +161,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
   </div>
 
-    <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
   <b style="color:#783F04;"> Distinguishability Calibration to In-Context Learning
   </b>
   \\
@@ -156,7 +170,14 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
    <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
   </div>
   
-
+  <div class='paper-box-text causality' markdown="1">
+  <b style="color:#783F04;"> A Knowledge-Aware Graph Model for Emotion Cause Extraction
+  </b>
+  \\
+  <strong>H. Yan</strong>, L. Gui and Y. He
+  **ACL21, Oral** |  [Paper](https://aclanthology.org/2021.acl-long.261.pdf)<br>
+  <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Causality</span>
+  </div>
 
 
 </div>
