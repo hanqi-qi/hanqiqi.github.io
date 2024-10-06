@@ -69,6 +69,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 \\
 **H. Yan**, Y. Xiang, G Chen, Y. Wang, L. Gui, Y. He\\
 **EMNLP24, main** |  [Paper](https://arxiv.org/abs/2406.17969)
+<br>
 <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  
 <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
 <br>
