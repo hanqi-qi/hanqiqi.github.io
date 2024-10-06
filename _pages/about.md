@@ -154,13 +154,6 @@ function filterPubs(category) {
     margin-top: 20px;
   }
 
-  .paper-box-text {
-    margin-bottom: 20px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    display: block;
-  }
 </style>
 
 
