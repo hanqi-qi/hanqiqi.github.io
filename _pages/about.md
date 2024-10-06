@@ -15,11 +15,12 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
-✨ Hi everyone! I'm a PostDoc at [King's college London](https://kcl.ac.uk/), NLP Group,led by [Prof. Yulan He](https://sites.google.com/view/yulanhe). I passed my PhD viva with no corrections after a great time in University of Warwick, advised by Prof. Yulan He and Dr. Lin Gui. I finished my M.S. at Peking University and my B.E. at Beihang University.
+✨ Hi everyone! I'm a PostDoc (01.2024-) at [King's college London](https://kcl.ac.uk/), NLP Group,led by [Prof. Yulan He](https://sites.google.com/view/yulanhe). I passed my PhD viva with no corrections after a great time in University of Warwick (10.2020-04.2024), advised by Prof. Yulan He and Dr. Lin Gui. I finished my M.S. at Peking University(09.2017-07.2020) and my B.E. at Beihang University(09.2013-06.2017).
                 
-During Ph.D., I started my Causality Journey in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated NLP Group @PolyU Hong Kong.
+During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey(07.2019-10.2019) in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated NLP Group @PolyU Hong Kong.
 
 # 🔍 Research Summary
 My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models. 
