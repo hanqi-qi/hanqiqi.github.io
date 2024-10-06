@@ -211,6 +211,7 @@ My research interests lie in the intersection of Machine Learning and Natural La
 
 <div id="invited talks" markdown="1">
 # 💬 Invited Talks
+- <strong>Fudan University, NLP Group</strong>, 07/2024. Representation Learning and Mechanistic Interpretability
 - <strong>UC San Diego, NLP Group</strong>, 02/2024. Robust and Interpretable NLP via representation learning and Path Ahead
 - <strong>Yale University, NLP Group</strong> 01/2024. Robust and Interpretable NLP via representation learning and Path Ahead
 - <strong>Turing AI Fellowship Event</strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
