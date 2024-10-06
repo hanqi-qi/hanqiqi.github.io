@@ -1,19 +1,1 @@
 # main links links
-main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Professional Activities"
-    url: "/#-professional-activities"
-
-  - title: "Invited Talks"
-    url: "/#-Invited Talks"
-
-  - title: "Memos"
-    url: "/#-Memos"
