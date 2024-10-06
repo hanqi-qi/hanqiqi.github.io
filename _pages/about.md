@@ -117,6 +117,40 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   **Neurips23, main** |  [Paper](https://arxiv.org/abs/2305.05331) 
   </div>
 
+  <div class='paper-box-text' markdown="1">
+  <b style="color:#783F04;"> Hierarchical Interpretation of Neural Text Classification
+  </b>
+  \\
+  <strong>H. Yan</strong>, L. Gui and Y. He
+  **Neurips23, main** |  [Paper](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text) 
+  </div>
+
+  
+  <div class='paper-box-text' markdown="1">
+  <b style="color:#783F04;"> A Knowledge-Aware Graph Model for Emotion Cause Extraction
+  </b>
+  \\
+  <strong>H. Yan</strong>, L. Gui and Y. He
+  **Neurips23, main** |  [Paper](https://aclanthology.org/2021.acl-long.261.pdf)
+  </div>
+
+    <div class='paper-box-text' markdown="1">
+  <b style="color:#783F04;"> Addressing Token Uniformity in Transformers via Singular Value Transformation
+  </b>
+  \\
+  <strong>H. Yan</strong>, L. Gui, W. Li and Y. He
+  **Neurips23, main** |  [Paper](https://proceedings.mlr.press/v180/yan22b.html)
+  </div>
+
+    <div class='paper-box-text' markdown="1">
+  <b style="color:#783F04;"> Distinguishability Calibration to In-Context Learning
+  </b>
+  \\
+  H. Li, <strong>H. Yan</strong>, L. Gui, W. Li and Y. He
+  **Neurips23, main** |  [Paper](https://arxiv.org/abs/2302.06198)
+  </div>
+  
+
 
 
 </div>
@@ -166,7 +200,7 @@ function filterPubs(category) {
   .paper-box-text {
     margin-bottom: 20px;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 0px solid #ccc;
     border-radius: 5px;
     display: block;
 }
