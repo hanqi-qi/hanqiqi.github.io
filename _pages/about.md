@@ -111,6 +111,30 @@ Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He
 
 
 
+
+
+
+
+
+<!-- JavaScript for Filtering -->
+<script>
+function filterPubs(category) {
+  var papers = document.getElementsByClassName('paper-box-text');
+  if (category == 'all') category = '';
+  
+  // Loop through all publications
+  for (var i = 0; i < papers.length; i++) {
+    if (papers[i].className.indexOf(category) > -1) {
+      papers[i].style.display = "block"; // Show if matches category
+    } else {
+      papers[i].style.display = "none";  // Hide if not
+    }
+  }
+}
+</script>
+
+
+
 <div id="honors" markdown="1"> 
 # 🎖 Honors and Awards
 </div>
