@@ -19,11 +19,16 @@ redirect_from:
 
 ✨ Hi everyone! I'm a PostDoc at [King's college London](https://kcl.ac.uk/), NLP Group,led by [Prof. Yulan He](https://sites.google.com/view/yulanhe). I passed my PhD viva with no corrections after a great time in University of Warwick, advised by Prof. Yulan He and Dr. Lin Gui. I finished my M.S. at Peking University and my B.E. at Beihang University.
                 
-During Ph.D., I started my Causality Journey in visiting Prof. (Kun Zhang)[https://www.andrew.cmu.edu/user/kunz1/] affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey in visiting Prof. (Wenjie Li)[https://www4.comp.polyu.edu.hk/~cswjli/] affiliated NLP Group @PolyU Hong Kong.
+During Ph.D., I started my Causality Journey in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated NLP Group @PolyU Hong Kong.
 
 # 🔍 Research Summary
 My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models.
-
+- Address the intrinsic limitations in representations learnt in Transformers, I propose:
+  - monosemantic neurons in alignment (DPO), [DecDPO](https://arxiv.org/abs/2406.17969), discriminative features in classification, [AddTokenUni](https://proceedings.mlr.press/v180/yan22b.html), [CaliDist](https://proceedings.mlr.press/v180/yan22b.html).
+  - Representation robust to position sensistively in In-context learning, [InfoAC](https://arxiv.org/abs/2406.17969)
+- Learn disentangled representation for:
+  - fundermental conditional generation by (ICA)theory-guaranteed intervention, [Matte](https://neurips.cc/virtual/2023/poster/71063)
+  - jointly extraction of aspect and associated sentiment to build self-explainable systems in classification, [Hint](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text) and recommendation, [Giant](https://arxiv.org/abs/2305.05331)
 
 
 
@@ -54,12 +59,14 @@ My research interests lie in the intersection of Machine Learning and Natural La
 
 <a href='[https://scholar.google.com/citations?user=YmWi1lgAAAAJ](https://scholar.google.com/citations?user=YmWi1lgAAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+<!--
 <div id="educations" markdown="1"> 
 # 📖 Educations
 </div>
 - *2020.10 - 2024.04*, Ph.D., Th University of Warwick.
 - *2017.09 - 2020.07*, Master, Peking University.
 - *2013.09 - 2017.06*, Bachelor, Beihang University.
+-->
 
 <div id="publications" markdown="1"> 
 # 📝 Selected Publications
@@ -122,8 +129,8 @@ My research interests lie in the intersection of Machine Learning and Natural La
   <b style="color:#783F04;">Addressing Order Sensitivity of In-Context Demonstration Examples in Causal Language Models. 
   </b>
   \\
-   <strong>H. Yan</strong>, Q. Zhu, X. Wang, L. Gui, Y. He\\
-  **ACL24, findings** |  [Paper]([https://arxiv.org/abs/2311.00237](https://arxiv.org/pdf/2402.15637)) <br>
+  Y. Xiang, **H. Yan**, L. Gui, Y. He\\
+  **ACL24, findings** |  [Paper](https://arxiv.org/pdf/2402.15637) <br>
   <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span> 
   <br>
   </div>
@@ -156,7 +163,7 @@ My research interests lie in the intersection of Machine Learning and Natural La
   <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>   <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   </div>
 
-  <div class='paper-box-text representation representation' markdown="1">
+  <div class='paper-box-text representation' markdown="1">
   <b style="color:#783F04;"> Addressing Token Uniformity in Transformers via Singular Value Transformation
   </b>
   \\
