@@ -72,7 +72,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
 </div>
 
 <div class="publication-list">
-  <div class='paper-box-text' markdown="1">
+  <div class="paper-box-text interpretability represesentation" markdown="1">
   <b style="color:#783F04;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
   </b>
   \\
@@ -83,7 +83,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   <br>
   </div>
 
-  <div class='paper-box-text' markdown="1">
+  <div class="paper-box-text application" markdown="1">
   <b style="color:#783F04;"> Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
   </b>
   \\
@@ -91,7 +91,7 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   **EMNLP24, main** |  [Paper](https://arxiv.org/abs/2312.09390) 
   </div>
 
-  <div class='paper-box-text' markdown="1">
+  <div class="paper-box-text interpretability" markdown="1">
   <b style="color:#783F04;"> The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities
   </b>
   \\
@@ -109,14 +109,23 @@ During Ph.D., I started my Causality Journey in visiting Prof. Kun Zhang affilia
   **Neurips23, main** |  [Paper](https://neurips.cc/virtual/2023/poster/71063) 
   </div>
 
+  <div class='paper-box-text' markdown="1">
+  <b style="color:#783F04;"> Explainable Recommender with Geometric Information Bottleneck
+  </b>
+  \\
+  <strong>H. Yan</strong>, L. Gui, M. Wang, K. Zhang and Y. He
+  **Neurips23, main** |  [Paper](https://arxiv.org/abs/2305.05331) 
+  </div>
+
+
+
 </div>
 
 
 
-
-
-
-
+<div id="honors" markdown="1"> 
+# 🎖 Honors and Awards
+</div>
 
 <!-- JavaScript for Filtering -->
 <script>
@@ -154,9 +163,12 @@ function filterPubs(category) {
     margin-top: 20px;
   }
 
+  .paper-box-text {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+}
+
 </style>
-
-
-<div id="honors" markdown="1"> 
-# 🎖 Honors and Awards
-</div>
