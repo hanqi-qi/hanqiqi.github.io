@@ -30,31 +30,32 @@ My research interests lie in the intersection of Machine Learning and Natural La
 
 
 # 🔥 News
-<div style="border: 0px solid #ccc; padding: 10px; width: 100%; height: 150px; overflow: auto;">
-09.2024: Three papers (1 first-author) are accepted by <strong>EMNLP24</strong> Main Conference.<br>
-08.2024: I go to <strong>Bangkok</strong>, Thiland for ACL24. <br>
-05.2024: Two papers (1 first-author) are accepted by <strong>ACL24</strong>, one in main conference, one in findings. <br>
-04.2024: I pass the <strong>PhD viva with no correction</strong>. <br>
-01.2024: I become a <strong>PostDoc at King's College London</strong>, NLP Group. <br>
-01.2024: I finish my <strong>PhD thesis (draft)</strong> on the same of my birthday.<br>
-01.2024: My first-author paper is finally accepted by TKDE. <br>
-07.2023: I go to Hawaii, US to present our <strong>Neurips</strong> paper. <br>
-07.2023: My first-author paper is accepted by Neurips (my neurips paper). <br>
-02.2023: I go back to the UK from <strong>Abu Dhabi, UAE</strong>, finish my Machine Learning Learning trip in MBZUAI. <br>
-02.2023: I attend the <strong>EMNLP23</strong> held in Abu Dhabi, to present our <strong>Computation Linguistics</strong> paper. <br>
-01.2023: One paper is accepted by <strong>EACL23-findings</strong> (first time as a mentor for a master student). <br>
-12.2022: Lionel Messi leads Argentina to win the World Cup championship. <br>
-10.2022: I start to be a funded visit student in Machine Learning, Department at <strong>MBZUAI</strong>, Abu Dhabi, UAE, advised by Prof. <a href="https://www.andrew.cmu.edu/user/kunz1/"> Kun Zhang </a>.  <br>
-08.2022: I go to <strong>Eindhoven</strong>, NetherLand to present our UAI paper. <br>
-05.2022: My first-author paper is accepted by <strong>UAI23</strong> (my first ML paper)  <br>
-05.2022: My first-author paper is accepted by <strong>UAI23</strong> (my first ML paper) <br>
-05.2021: The first time! My first-author paper is accepted by <strong>ACL21 Oral</strong> A super encouragement in my early PhD career.<br>
-10.2020: I start my PhD journey at University of Warwick. <br>
+09.2024: Three papers (1 first-author) are accepted by EMNLP24 Main Conference. 🎉<br> 
+08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️<br> 05.2024: Two papers (1 first-author) are accepted by ACL24, one in the main conference, one in findings. <br> 
+04.2024: I pass the PhD viva with no correction🎓. <br> 
+01.2024: I become a PostDoc👩‍🏫 at King's College London, NLP Group. <br> 
+01.2024: I finish my PhD thesis (draft) on the same day of my birthday.<br> 
+01.2024: My first-author paper is finally accepted by TKDE.<br> 
+12.2023: I go to New Orleans🎷, US to present our Neurips paper. <br>
+07.2023: I go to Hawaii🌴, US to present our ICML-workshop paper. <br> 
+07.2023: My first-author paper is accepted by Neurips (my Neurips paper).<br> 
+02.2023: I go back to the UK from Abu Dhabi, UAE🇦🇪, finish my Machine Learning trip in MBZUAI. <br> 
+02.2023: I attend the EMNLP23 held in Abu Dhabi, to present our Computational Linguistics paper. <br> 
+01.2023: One paper is accepted by EACL23🇭🇷-findings (first time as a mentor for a master's student). <br> 
+12.2022: Lionel Messi leads Argentina to win the ⚽️World Cup championship. <br> 
+10.2022: I start to be a funded visiting student in Machine Learning, Department at MBZUAI🏫, Abu Dhabi, UAE, advised by Prof. Kun Zhang. <br>
+08.2022: I go to Eindhoven, Netherlands🇳🇱 to present our UAI paper. <br> 
+05.2022: My first-author paper is accepted by UAI23 (🥳my first ML paper) <br> 
+05.2021: The first time! My first-author paper is accepted by ACL21 🌟Oral A super encouragement in my early PhD career. <br> 
+10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
 </div>
+
 
 🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
 
+<!--
 <a href='[https://scholar.google.com/citations?user=YmWi1lgAAAAJ](https://scholar.google.com/citations?user=YmWi1lgAAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+-->
 
 <!--
 <div id="educations" markdown="1"> 
