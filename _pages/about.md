@@ -22,14 +22,19 @@ redirect_from:
                 
 During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey(07.2019-10.2019) in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated NLP Group @PolyU Hong Kong.
 
+<div id="research-summary" markdown="1"> 
 # 🔍 Research Summary
+</div>
+
 My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models. 
 - Address the intrinsic limitations in representations learnt in Transformers, I propose (i)monosemantic neurons in alignment (DPO), [DecDPO](https://arxiv.org/abs/2406.17969); (ii)discriminative features in classification, [AddTokenUni](https://proceedings.mlr.press/v180/yan22b.html), [CaliDist](https://proceedings.mlr.press/v180/yan22b.html); (iii) representation robust to position in ICL, [InfoAC](https://arxiv.org/abs/2406.17969)
 - Learn disentangled representation for: (i) conditional generation by theory-guaranteed intervention, [Matte](https://neurips.cc/virtual/2023/poster/71063) (ii) extraction of aspect and associated sentiment to build self-explainable systems, [Hint](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text) and [Giant](https://arxiv.org/abs/2305.05331)
 - Improve the performances of applications: (i) event extraction by introduce weak supervision, [WeakExtraction](https://arxiv.org/pdf/2406.18245), [KAG](https://aclanthology.org/2021.acl-long.261.pdf) (ii) LLM reasoning by self-reflection, [Mirror](https://aclanthology.org/2024.acl-long.382.pdf).
 
-
+<div id="news" markdown="1"> 
 # 🔥 News
+</div>
+
 <div style="width: 100%; height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 09.2024: Three papers (1 first-author) are accepted by EMNLP24 Main Conference. 🎉<br> 
 08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️<br> 05.2024: Two papers (1 first-author) are accepted by ACL24, one in the main conference, one in findings. <br> 
