@@ -22,13 +22,10 @@ redirect_from:
 During Ph.D., I started my Causality Journey in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated NLP Group @PolyU Hong Kong.
 
 # 🔍 Research Summary
-My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models.
-- Address the intrinsic limitations in representations learnt in Transformers, I propose:
-  - monosemantic neurons in alignment (DPO), [DecDPO](https://arxiv.org/abs/2406.17969), discriminative features in classification, [AddTokenUni](https://proceedings.mlr.press/v180/yan22b.html), [CaliDist](https://proceedings.mlr.press/v180/yan22b.html).
-  - Representation robust to position sensistively in In-context learning, [InfoAC](https://arxiv.org/abs/2406.17969)
-- Learn disentangled representation for:
-  - fundermental conditional generation by (ICA)theory-guaranteed intervention, [Matte](https://neurips.cc/virtual/2023/poster/71063)
-  - jointly extraction of aspect and associated sentiment to build self-explainable systems in classification, [Hint](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text) and recommendation, [Giant](https://arxiv.org/abs/2305.05331)
+My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models. 
+- Address the intrinsic limitations in representations learnt in Transformers, I propose (i)monosemantic neurons in alignment (DPO), [DecDPO](https://arxiv.org/abs/2406.17969); (ii)discriminative features in classification, [AddTokenUni](https://proceedings.mlr.press/v180/yan22b.html), [CaliDist](https://proceedings.mlr.press/v180/yan22b.html); (iii) representation robust to position in ICL, [InfoAC](https://arxiv.org/abs/2406.17969)
+- Learn disentangled representation for: (i) conditional generation by theory-guaranteed intervention, [Matte](https://neurips.cc/virtual/2023/poster/71063) (ii) extraction of aspect and associated sentiment to build self-explainable systems, [Hint](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text) and [Giant](https://arxiv.org/abs/2305.05331)
+- Improve the performances of applications: (i) event extraction by introduce weak supervision, [WeakExtraction](https://arxiv.org/pdf/2406.18245), [KAG](https://aclanthology.org/2021.acl-long.261.pdf) (ii) LLM reasoning by self-reflection, [Mirror](https://aclanthology.org/2024.acl-long.382.pdf).
 
 
 
@@ -194,7 +191,41 @@ My research interests lie in the intersection of Machine Learning and Natural La
 
 
 <div id="honors" markdown="1"> 
-# 🎖 Honors and Awards
+# 👩‍🏫  Professional Actitives
+  - Event Organiser: Co-Chair of AACL-IJCNLP (Student Research Workshop) 2022 
+  - Reviewers:
+    - AACL23'24
+    - NAACL24'
+    - EACL23'
+    - EMNLP22'23'24'
+    - ACL23'24'
+    - UAI23'
+    - AISTATS24'25'
+    - NEURIPS24'
+    - ICLR25'
+    - NeuroComputing
+    - TOIS
+</div>
+
+<div id="invited talks" markdown="1">
+# 💬 Invited Talks
+- <strong>UC San Diego, NLP Group</strong>, 02/2024. Robust and Interpretable NLP via representation learning and Path Ahead
+- <strong>Yale University, NLP Group</strong> 01/2024. Robust and Interpretable NLP via representation learning and Path Ahead
+- <strong>Turing AI Fellowship Event</strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
+- <strong>UKRI Fellows Workshop</strong>, University of Edinburgh, 04/2022. Interpreting Long Documents and Recommendation Systems via Latent Variable Models
+</div>
+
+<div id="Blogs" markdown="1">
+# 📝 (Memo)
+<a href="https://github.com/hanqi-qi/Large_language_modeling/blob/main/Reading_Material.md">Reading List For Large Language Model</a>
+                <br>
+                <a href="https://zhuanlan.zhihu.com/p/652269984">Induction Head_ contribute to In-context Learning</a>
+                <br>
+                <a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_Intro_hanqi.pdf">Causality101</a>
+                <br>
+                <a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_RS_hanqi.pdf">Debised Recommendation with Causality</a>
+                <br>
+                <a href="https://zhuanlan.zhihu.com/p/665841340">Identifiability101 in Causality</a>
 </div>
 
 <!-- JavaScript for Filtering -->
