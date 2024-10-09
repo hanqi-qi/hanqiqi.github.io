@@ -225,6 +225,7 @@ My research interests lie in the intersection of Machine Learning and Natural La
 
 <div id="Blogs" markdown="1">
 # 📝 (Memo)
+<a href="https://profiles.ucl.ac.uk/92965-jialin-yu"> Machine Unlearning via CausalLens and in NLP tasks</a>
 <a href="https://github.com/hanqi-qi/Large_language_modeling/blob/main/Reading_Material.md">Reading List For Large Language Model</a>
                 <br>
                 <a href="https://zhuanlan.zhihu.com/p/652269984">Induction Head_ contribute to In-context Learning</a>
